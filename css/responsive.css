@@ -71,4 +71,5 @@ a.btn-glossy {
     .section-padding {padding: 20px 0;}
     h2.section-title {font-size: 25px;}
     #review-carousel::before{left: -175px}
+    li.nav-item.active::before {top: 6px;width: 20%;}
 }
